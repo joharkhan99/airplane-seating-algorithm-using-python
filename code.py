@@ -41,7 +41,6 @@ class AirPlane:
                 self.resArr[i].passenger = i + 1
 
 
-result = []
 seats = [[3, 4], [4, 5], [2, 3], [3, 4]]
 queue = 30
 
