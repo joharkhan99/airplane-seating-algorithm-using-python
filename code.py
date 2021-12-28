@@ -46,7 +46,7 @@ queue = 30
 
 airplane = AirPlane()
 airplane.sortSeats(seats)
-airplane.seatPassengers(queue)
+airplane.seatPassengers(queue)  
 
 for i in range(0, len(airplane.resArr)):
     print("block: ", airplane.resArr[i].block)
